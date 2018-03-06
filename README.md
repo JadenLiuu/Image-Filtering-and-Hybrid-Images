@@ -4,11 +4,8 @@
 (Look at image on right from very close, then from far away.)
 </center>
 
-# Project 1: Image Filtering and Hybrid Images
+# Image Filtering and Hybrid Images
 
-## Brief
-* Due: Oct. 19
-* Required files: results/index.md, and code/
 
 ##Overview
 
